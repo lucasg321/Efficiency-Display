@@ -1,0 +1,8 @@
+Changed database context to 'aaReports'.
+HResult 0x1FB2, Level 16, State 1
+Error converting data type varchar to datetime.
+Return Value
+------------
+        NULL
+
+(1 rows affected)

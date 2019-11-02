@@ -1,0 +1,10 @@
+﻿  Changeover Optimization.cpp
+  MyForm.cpp
+  Generating Code...
+  Changeover Optimization.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+Changeover Optimization.obj : error LNK2020: unresolved token (0A0004A0) "extern "C" int __cdecl _CrtDbgReportW(int,wchar_t const *,int,wchar_t const *,wchar_t const *,...)" (?_CrtDbgReportW@@$$J0YAHHPB_WH00ZZ)
+Changeover Optimization.obj : error LNK2020: unresolved token (0A0004B6) "extern "C" int __cdecl _CrtDbgReportW(int,wchar_t const *,int,wchar_t const *,wchar_t const *,...)" (?_CrtDbgReportW@@$$J0YAHHPB_WH00ZZ)
+Changeover Optimization.obj : error LNK2028: unresolved token (0A0005EA) "extern "C" void __cdecl _invalid_parameter(wchar_t const *,wchar_t const *,wchar_t const *,unsigned int,unsigned int)" (?_invalid_parameter@@$$J0YAXPB_W00II@Z) referenced in function "void * __cdecl std::_Allocate(unsigned int,unsigned int,bool)" (?_Allocate@std@@$$FYAPAXII_N@Z)
+Changeover Optimization.obj : error LNK2001: unresolved external symbol "extern "C" int __cdecl _CrtDbgReportW(int,wchar_t const *,int,wchar_t const *,wchar_t const *,...)" (?_CrtDbgReportW@@$$J0YAHHPB_WH00ZZ)
+Changeover Optimization.obj : error LNK2019: unresolved external symbol "extern "C" void __cdecl _invalid_parameter(wchar_t const *,wchar_t const *,wchar_t const *,unsigned int,unsigned int)" (?_invalid_parameter@@$$J0YAXPB_W00II@Z) referenced in function "void * __cdecl std::_Allocate(unsigned int,unsigned int,bool)" (?_Allocate@std@@$$FYAPAXII_N@Z)
+C:\Users\gigliluc\Documents\Visual Studio 2015\Projects\original\Debug\Project1.exe : fatal error LNK1120: 5 unresolved externals
